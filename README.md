@@ -40,4 +40,4 @@ Wiring: TRIG to pin 9, ECHO to pin 10, green LED to pin 4, red LED to pin 5, buz
 
 ## Author
 
-<Manuelle Aseye Ackun>, African Leadership University
+Manuelle Aseye Ackun, African Leadership University
